@@ -11,4 +11,5 @@ def list_dwarves(array)
     array[index] = b
   # Print a numbered list of each element
 end
+array
 end
