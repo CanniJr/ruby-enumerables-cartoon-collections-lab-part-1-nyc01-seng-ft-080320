@@ -4,6 +4,7 @@ def greet_characters(array)
     puts "What's going on #{a} ?"
   # Print a custom greeting for each element
 end
+end
 
 def list_dwarves(array)
   # Use `each_with_index` to enumerate over the provided array
