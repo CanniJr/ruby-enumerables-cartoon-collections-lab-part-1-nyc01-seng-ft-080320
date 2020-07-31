@@ -8,8 +8,7 @@ end
 def list_dwarves(array)
   # Use `each_with_index` to enumerate over the provided array
   array.each_with_index do |b, index|
-    array[index] = b
-    array
+    if array
   # Print a numbered list of each element
 end
 end
